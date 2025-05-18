@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">Hi, my name is Ricardo Souza and I'm from Brazil 🇧🇷<br><br>- I currently work as a support attendant and am transitioning my career to work with software development<br>- I am studying technologies focused on back-end<br>- In my free time I like do play video games e read manga</p>
+<p align="left">Hi, my name is Ricardo Souza and I'm from Brazil 🇧🇷<br><br>- I currently work as a support attendant and am transitioning my career to work with software development<br>- I am studying technologies focused on back-end<br>- In my free time I like do play video games and read manga</p>
 
 ###
 
